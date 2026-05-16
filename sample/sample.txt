@@ -1,0 +1,23 @@
+Artificial Intelligence (AI) is a branch of computer science focused on creating intelligent systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a subset of AI where computers learn patterns from data instead of being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+
+Python is one of the most popular programming languages used in AI and Machine Learning because of its simplicity and large ecosystem of libraries.
+
+Streamlit is a Python framework used to quickly build interactive web applications for data science and AI projects.
+
+FAISS is a vector database library developed by Facebook AI Research. It is used for efficient similarity search between embeddings.
+
+Embeddings are numerical representations of text that help AI models understand semantic meaning.
+
+Retrieval-Augmented Generation (RAG) is an AI technique where relevant information is first retrieved from documents and then passed to a language model to generate accurate answers.
+
+LangChain is a framework that helps developers build applications powered by Large Language Models (LLMs).
+
+OpenAI provides powerful language models such as GPT-3.5 and GPT-4 that can understand and generate human-like text.
+
+Chunking is the process of dividing large text into smaller sections so that language models can process them efficiently.
+
+Vector search helps find semantically similar pieces of text instead of exact keyword matches.
