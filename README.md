@@ -38,3 +38,13 @@ py -3.11 -m streamlit run app.py
 - Better local LLM responses
 - Chat history
 - Multiple document support
+
+## Screenshots
+
+### Uploaded Document
+
+![Uploaded](screenshots/text_uploaded.png)
+
+### Answer Generated
+
+![Answer](screenshots/answer.png)
